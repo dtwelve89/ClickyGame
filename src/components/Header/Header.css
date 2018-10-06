@@ -1,0 +1,13 @@
+header {
+  background-image: url("../../images/MKBG.jpg");
+  background-position-y: -175px;
+  height: 450px;
+  color: #FFFFFF;
+  text-align: center;
+  margin-top: 85px;
+}
+
+header h1 {
+  padding: 100px;
+  font-size: 100px;
+}

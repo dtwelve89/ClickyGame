@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Subzero",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a7/SubZeroMKXrender.png"
+  },
+  {
+    "id": 2,
+    "name": "Scorpion",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/6c/ScorpionMKXRender.png"
+  },
+  {
+    "id": 3,
+    "name": "Reptile",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/bf/ReptileMKXrender.png"
+  },
+  {
+    "id": 4,
+    "name": "Raiden",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4e/RaidenMKXrender.png"
+  },
+  {
+    "id": 5,
+    "name": "Liu Kang",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/92/LiuKangMKXRender.png"
+  },
+  {
+    "id": 6,
+    "name": "Baraka",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/44/BarakaMK9render.png"
+  },
+  {
+    "id": 7,
+    "name": "Prince Goro",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f7/Goro_%28Mortal_Kombat%29.png"
+  },
+  {
+    "id": 8,
+    "name": "Shao Kahn",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b2/Shao_Kahn_2011.png"
+  },
+  {
+    "id": 9,
+    "name": "Kitana",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/94/KitanaMKXRender.png"
+  },
+  {
+    "id": 10,
+    "name": "Jax",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/JaxMKXRender.png"
+  },
+  {
+    "id": 11,
+    "name": "Jade",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c7/Jade_%28Mortal_Kombat%29.png"
+  },
+  {
+    "id": 12,
+    "name": "Mileena",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a4/MileenaMKXrender.png"
+  },
+  {
+    "id": 13,
+    "name": "Kano",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/81/KanoMKXrender.png"
+  },
+  {
+    "id": 14,
+    "name": "Kung Lao",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c2/Kung_Lao_MKX_Render.png"
+  },
+  {
+    "id": 15,
+    "name": "Shang Tsung",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f8/Shangtsung_mkvsdc.png"
+  }
+]

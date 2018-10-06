@@ -1,0 +1,18 @@
+.navbar, .navbar ul {
+  text-align: center;
+  text-decoration: none;
+  width: 100%;
+  z-index: 1;
+}
+
+.navbar li {
+  font-size: 30px;
+  display: inline-block;
+  padding: 5px 0;
+  width: 32%;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+}

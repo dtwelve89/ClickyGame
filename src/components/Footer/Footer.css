@@ -1,0 +1,11 @@
+footer {
+  background-image: url("../../images/MKBG.jpg");
+  background-position-y: 300px;
+  height: 100px;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+p {
+  padding-top: 40px;
+}
